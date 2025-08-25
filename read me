@@ -1,0 +1,13 @@
+# 🛒 AI-Powered Customer Segmentation and Revenue Optimization
+
+This project applies **RFM Analysis, KMeans clustering, and AI-based recommendation systems** ...
+
+---
+
+## ⚙️ Installation
+Clone this repository and install dependencies:
+
+```bash
+git clone https://github.com/jagan969646/customer-segmentation-ai.git
+cd customer-segmentation-ai
+pip install -r requirements.txt

@@ -26,3 +26,5 @@ customer-segmentation-ai/
 │── requirements.txt
 │── README.md
 │── .gitignore
+<img width="588" height="311" alt="image" src="https://github.com/user-attachments/assets/b4400397-b341-49e9-83eb-fb669624d7cc" />
+

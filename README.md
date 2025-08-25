@@ -16,3 +16,13 @@ It also explores revenue optimization strategies and can be extended with a **St
 ---
 
 ## 📂 Project Structure
+
+customer-segmentation-ai/
+│── data/ # dataset (link below if not included)
+│── notebooks/
+│ └── AI-Powered-Customer-Segmentation.ipynb
+│── app/
+│ └── dashboard.py # Streamlit app (optional extension)
+│── requirements.txt
+│── README.md
+│── .gitignore

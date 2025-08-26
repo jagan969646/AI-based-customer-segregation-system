@@ -1,0 +1,5 @@
+cd C:\Users\Jagadeesh\Documents\customer-segmentation-ai
+git init
+git config --global user.name "Jagadeesh"
+git config --global user.email "jagadeesh.n10d@gmail.com"
+git status
